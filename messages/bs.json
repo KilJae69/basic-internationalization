@@ -1,0 +1,16 @@
+{
+  "IndexPage": {
+    "title": "primjer next-intl",
+    "description": "Dobrodošli u Next.js primjer internacionalizacije (i18n)! Ovaj demo prikazuje moć App Routera i kako besprijekorno upravljati višejezičnim sadržajem koristeći next-intl."
+  },
+  "NotFoundPage": {
+    "title": "Stranica nije pronađena",
+    "description": "Ups! Izgleda da ste naišli na stranicu koja ne postoji. Ne brinite, naša internacionalizacijska magija još uvijek radi na drugim dijelovima aplikacije. Slobodno se vratite nazad kako biste istražili više!"
+  },
+  "Navigation": {
+    "home": "Početna"
+  },
+  "Footer": {
+    "copyright": "© 2024 Vaša aplikacija. Sva prava zadržana."
+  }
+}
